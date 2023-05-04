@@ -1,0 +1,28 @@
+PODS:
+  - Flutter (1.0.0)
+  - NativePod (0.0.1):
+    - shared_preferences
+  - shared_preferences (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - NativePod (from `NativePod`)
+  - shared_preferences (from `shared_preferences`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  NativePod:
+    :path: NativePod
+  shared_preferences:
+    :path: shared_preferences
+
+SPEC CHECKSUMS:
+  Flutter: c05b04040c6143798dd8bf6189b176173772cfda
+  NativePod: 54721cf83cfb820ee9b85ea900f7db9b516eeacd
+  shared_preferences: 5033afbb22d372e15aff8ff766df9021b845f273
+
+PODFILE CHECKSUM: a46d0b8f329871908742e95927228ba01b10d7ba
+
+COCOAPODS: 1.11.3
